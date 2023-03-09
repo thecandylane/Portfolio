@@ -1,0 +1,17 @@
+{
+    "portfolio": [
+        {
+            "cover": "src/assets/images/peppamint.jfif",
+            "title": "whatever",
+            "description":"whatever",
+            "url":"whatever.com"
+        },
+        {
+            "cover": "src/assets/images/peppamint.jfif",
+            "title": "whatever",
+            "description":"whatever",
+            "url":"whatever.com"
+        }
+    ]
+    
+}
