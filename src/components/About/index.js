@@ -27,6 +27,7 @@ const About = () => {
                         />
                     </h1>
                     <p>Highly driven and enthusiastic Full-Stack Developer with a passion for cutting-edge technologies and a hunger for tackling diverse and complex projects. My unwavering confidence in my abilities allows me to approach challenges with optimism and a can-do attitude, always striving to push myself to new heights.</p>
+                    <p>My current skillset includes: JavaScript, HTML, CSS, React.js, Python, Flask, Ruby, Git, JSON/REST, and SQLAlchemy. Continual learning is a top priority for me, and I am always working to expand my skillset and stay up to date with the latest advancements in the field.</p>
                     <p>My self-assured nature stems from my deep understanding and experience in the field, as well as my eagerness to continue learning and growing as a developer.</p>
                     <p>To describe myself, I am a fun and personable individual who possesses a unique blend of determination, confidence, and optimism, making me an ideal candidate for any team.</p>
 
