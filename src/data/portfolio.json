@@ -1,16 +1,22 @@
 {
     "portfolio": [
         {
-            "cover": "src/assets/images/peppamint.jfif",
-            "title": "whatever",
-            "description":"whatever",
-            "url":"whatever.com"
+            "image": "https://i0.wp.com/allpicts.in/wp-content/uploads/2017/06/Beautiful-Nature-Wallpaper-with-for-Desktop-water-fall-in-autumn-forest.jpg?resize=700%2C400",
+            "title": "Project #1",
+            "description":"Currently have no Projects to show :(, Will be updated in the future when I figure out how to set them up on the Web. THANKS!",
+            "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
-            "cover": "src/assets/images/peppamint.jfif",
-            "title": "whatever",
-            "description":"whatever",
-            "url":"whatever.com"
+            "image": "https://th.bing.com/th/id/R.c7d467c84bca32e825f4b086a489e093?rik=tkPmyyWGOteCOQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-p5wIzA3SprE%2fTsMtWgmzK2I%2fAAAAAAAAHSk%2fTM1sdlZqdps%2fs1600%2fMost%2bBeautiful%2bNature%2bWallpapers%2b%2525286%252529.jpg&ehk=nK5wXVo%2blRF0qllCNegkwCSjjPS08%2b7Y86HMlv%2f76PA%3d&risl=&pid=ImgRaw&r=0",
+            "title": "Project #2",
+            "description":"Will add when I get my projects published on the Internet",
+            "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "image": "https://hackanons.com/wp-content/uploads/2020/09/pong-game.jpg",
+            "title": "Project #3",
+            "description":"Simple pong game I made with python, not sure how to make it playable in browser just yet",
+            "url":"https://www.instagram.com/thecandylane/"
         }
     ]
     

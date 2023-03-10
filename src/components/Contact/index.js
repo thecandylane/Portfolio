@@ -47,8 +47,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am interested in any opportunities available to me, especially large and challenging projects. If you have a request or question,
-                        dont hesitate to contact me using the form below.
+                    Thank you for taking the time to visit my portfolio. I'm always on the lookout for exciting and challenging projects, so please don't hesitate to contact me using the form below if you have any requests or questions. I'm eager to explore any opportunities that may be available to me. Let's work together to create something amazing!
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>

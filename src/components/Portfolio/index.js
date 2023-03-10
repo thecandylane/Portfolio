@@ -22,7 +22,7 @@ const Portfolio = () => {
                             <div className='image-box'>
                                 <img
                                 key={idx}
-                                src={port.cover}
+                                src={port.image}
                                 alt="portfolio"
                                 className='portfolio-image' />
                                 <div className='content'>
