@@ -1,19 +1,37 @@
 {
     "portfolio": [
         {
-            "image": "https://i0.wp.com/allpicts.in/wp-content/uploads/2017/06/Beautiful-Nature-Wallpaper-with-for-Desktop-water-fall-in-autumn-forest.jpg?resize=700%2C400",
-            "title": "Project #1",
-            "description":"Currently have no Projects to show :(, Will be updated in the future when I figure out how to set them up on the Web. THANKS!",
-            "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            "image": "src/assets/images/Candiboard.jfif",
+            "title": "Candiboard",
+            "description":"Platform that allows you to customize a personal advertising and affiliate marketing program for the products of your choice. Currently built using React and Flask, But I am remaking it with next.js for the commercializing platform I am considering.",
+            "url":"https://github.com/thecandylane/Candiboard-capstone"
         },
         {
-            "image": "https://th.bing.com/th/id/R.c7d467c84bca32e825f4b086a489e093?rik=tkPmyyWGOteCOQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-p5wIzA3SprE%2fTsMtWgmzK2I%2fAAAAAAAAHSk%2fTM1sdlZqdps%2fs1600%2fMost%2bBeautiful%2bNature%2bWallpapers%2b%2525286%252529.jpg&ehk=nK5wXVo%2blRF0qllCNegkwCSjjPS08%2b7Y86HMlv%2f76PA%3d&risl=&pid=ImgRaw&r=0",
-            "title": "Project #2",
-            "description":"Will add when I get my projects published on the Internet",
-            "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            "image": "src/assets/images/Phase 4 project.PNG",
+            "title": "Issue and Project Tracking Software",
+            "description":"Projecting managing application that works similar to Jira or Workfront. Built as a Team of 4 Bootcamp classmates, using React and Flask.",
+            "url":"https://github.com/thecandylane/P4-Project-Jack-ChrisC-Jacob-ChrisW"
         },
         {
-            "image": "https://hackanons.com/wp-content/uploads/2020/09/pong-game.jpg",
+            "image":"src/assets/images/minesweeper.PNG",
+            "title": "Minesweeper CLI game",
+            "description":"Created a working minesweeper game played in the terminal. Has a full backend for Users and highscores. Built with Python.",
+            "url":"https://github.com/thecandylane/phase3-Jack-Eshwar-cli-project"
+        },
+        {
+            "image":"src/assets/images/instagram mock.PNG",
+            "title":"ScrapBook",
+            "description":"Mock rudimentary instagram version created using React and json-server. No github contributions due to computer problems, only backseat coding.",
+            "url":"https://github.com/ianstrom/ScrapBook"
+        },
+        {
+            "image":"",
+            "title":"SeeSEC",
+            "description":"Site that fetches from an API and returns ~100,000 employees SEC Filings from ~8000 major Companies.",
+            "url":"https://github.com/ianstrom/See-SEC"
+        },
+        {
+            "image": "pongSS.png",
             "title": "Project #3",
             "description":"Simple pong game I made with python, not sure how to make it playable in browser just yet",
             "url":"https://www.instagram.com/thecandylane/"
