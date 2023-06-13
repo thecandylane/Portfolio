@@ -34,19 +34,19 @@ const Contact = () => {
             )
 
     }
-    return(
+    return (
         <>
             <div className='container contact-page'>
                 <div className='text-zone'>
                     <h1>
                         <AnimatedLetters
-                        letterClass={letterClass}
-                        strArray={['C','o','n','t','a','c','t',' ' ,'M','e']}
-                        idx={15}
+                            letterClass={letterClass}
+                            strArray={['C', 'o', 'n', 't', 'a', 'c', 't', ' ', 'M', 'e']}
+                            idx={15}
                         />
                     </h1>
                     <p>
-                    Thank you for taking the time to visit my portfolio. I'm always on the lookout for exciting and challenging projects, so please don't hesitate to contact me using the form below if you have any requests or questions. I'm eager to explore any opportunities that may be available to me. Let's work together to create something amazing!
+                        Thank you for taking the time to visit my portfolio. I'm always on the lookout for exciting and challenging projects, so please don't hesitate to contact me using the form below if you have any requests or questions. I'm eager to explore any opportunities that may be available to me. Let's work together to create something amazing!
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
@@ -72,17 +72,17 @@ const Contact = () => {
                 </div>
                 <div className='info-map'>
                     Jack Schliewe,
-                    <br/>
+                    <br />
                     United States,
                     <br />
-                    55 Clark Street, 11201 <br />
-                    New York <br />
+                    2611 Lydia Ave, Baton Rouge <br />
+                    Louisiana <br />
                     <span>jack.schliewe@outlook.com</span>
                 </div>
                 <div className='map-wrap'>
-                    <MapContainer center={[40.6977644, -73.9935969]} zoom={13}>
-                        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/>
-                        <Marker position={[40.6977644, -73.9935969]}>
+                    <MapContainer center={[30.4583, -91.1403]} zoom={13}>
+                        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+                        <Marker position={[30.4583, -91.1403]}>
                             <Popup>Hey yo !!!</Popup>
                         </Marker>
                     </MapContainer>

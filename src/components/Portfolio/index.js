@@ -12,12 +12,13 @@ const Portfolio = () => {
             setLetterClass('text-animate-hover')
         }, 3000)
     }, [])
-
+    
     const renderPortfolio = (portfolio) => {
         return(
             <div className="images-container">
                 {
                     portfolio.map((port, idx) => {
+                        console.log(port.image)
                         return (
                             <div className='image-box'>
                                 <img

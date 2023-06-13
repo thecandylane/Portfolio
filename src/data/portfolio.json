@@ -1,25 +1,25 @@
 {
     "portfolio": [
         {
-            "image": "src/assets/images/Candiboard.jfif",
+            "image": "../assets/images/Candiboard.jfif",
             "title": "Candiboard",
             "description":"Platform that allows you to customize a personal advertising and affiliate marketing program for the products of your choice. Currently built using React and Flask, But I am remaking it with next.js for the commercializing platform I am considering.",
             "url":"https://github.com/thecandylane/Candiboard-capstone"
         },
         {
-            "image": "src/assets/images/Phase 4 project.PNG",
+            "image": "../assets/images/Phase 4 project.png",
             "title": "Issue and Project Tracking Software",
             "description":"Projecting managing application that works similar to Jira or Workfront. Built as a Team of 4 Bootcamp classmates, using React and Flask.",
             "url":"https://github.com/thecandylane/P4-Project-Jack-ChrisC-Jacob-ChrisW"
         },
         {
-            "image":"src/assets/images/minesweeper.PNG",
+            "image":"../assets/images/minesweeper.png",
             "title": "Minesweeper CLI game",
             "description":"Created a working minesweeper game played in the terminal. Has a full backend for Users and highscores. Built with Python.",
             "url":"https://github.com/thecandylane/phase3-Jack-Eshwar-cli-project"
         },
         {
-            "image":"src/assets/images/instagram mock.PNG",
+            "image":"src/assets/images/instagram mock.png",
             "title":"ScrapBook",
             "description":"Mock rudimentary instagram version created using React and json-server. No github contributions due to computer problems, only backseat coding.",
             "url":"https://github.com/ianstrom/ScrapBook"
