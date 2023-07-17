@@ -15,7 +15,7 @@
         {
             "image":"../assets/images/minesweeper.png",
             "title": "Minesweeper CLI game",
-            "description":"Created a working minesweeper game played in the terminal. Has a full backend for Users and highscores. Built with Python.",
+            "description":"Created a custom minesweeper game played in the terminal. Has a full backend for Users and highscores. Built with Python.",
             "url":"https://github.com/thecandylane/phase3-Jack-Eshwar-cli-project"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "image": "pongSS.png",
-            "title": "Project #3",
+            "title": "Pong",
             "description":"Simple pong game I made with python, not sure how to make it playable in browser just yet",
             "url":"https://www.instagram.com/thecandylane/"
         }
