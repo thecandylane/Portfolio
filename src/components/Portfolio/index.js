@@ -68,11 +68,11 @@ import Loader from 'react-loaders'
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
-import CandiboardImage from '../assets/images/Candiboard.jfif'
-import Phase4ProjectImage from '../assets/images/Phase 4 project.png'
-import MinesweeperImage from '../assets/images/minesweeper.png'
-import InstagramMockImage from 'src/assets/images/instagram mock.png'
-import PongSSImage from 'pongSS.png'
+import CandiboardImage from '../../assets/images/Candiboard.png'
+import Phase4ProjectImage from '../../assets/images/Phase_4_project.png'
+import MinesweeperImage from '../../assets/images/minesweeper.png'
+import InstagramMockImage from '../../assets/images/instagram_mock.png'
+import PongSSImage from '../../assets/images/pongSS.png'
 const Portfolio = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
 
