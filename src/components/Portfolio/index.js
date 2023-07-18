@@ -68,31 +68,35 @@ import Loader from 'react-loaders'
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
-
+import CandiboardImage from '../assets/images/Candiboard.jfif'
+import Phase4ProjectImage from '../assets/images/Phase 4 project.png'
+import MinesweeperImage from '../assets/images/minesweeper.png'
+import InstagramMockImage from 'src/assets/images/instagram mock.png'
+import PongSSImage from 'pongSS.png'
 const Portfolio = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
 
     const portfolioData = [
         {
-            "image": "../assets/images/Candiboard.jfif",
+            "image": CandiboardImage,
             "title": "Candiboard",
             "description":"Platform that allows you to customize a personal advertising and affiliate marketing program for the products of your choice. Currently built using React and Flask, But I am remaking it with next.js for the commercializing platform I am considering.",
             "url":"https://github.com/thecandylane/Candiboard-capstone"
         },
         {
-            "image": "../assets/images/Phase 4 project.png",
+            "image": Phase4ProjectImage,
             "title": "Issue and Project Tracking Software",
             "description":"Projecting managing application that works similar to Jira or Workfront. Built as a Team of 4 Bootcamp classmates, using React and Flask.",
             "url":"https://github.com/thecandylane/P4-Project-Jack-ChrisC-Jacob-ChrisW"
         },
         {
-            "image":"../assets/images/minesweeper.png",
+            "image":MinesweeperImage,
             "title": "Minesweeper CLI game",
             "description":"Created a custom minesweeper game played in the terminal. Has a full backend for Users and highscores. Built with Python.",
             "url":"https://github.com/thecandylane/phase3-Jack-Eshwar-cli-project"
         },
         {
-            "image":"src/assets/images/instagram mock.png",
+            "image":InstagramMockImage,
             "title":"ScrapBook",
             "description":"Mock rudimentary instagram version created using React and json-server. No github contributions due to computer problems, only backseat coding.",
             "url":"https://github.com/ianstrom/ScrapBook"
@@ -104,7 +108,7 @@ const Portfolio = () => {
             "url":"https://github.com/ianstrom/See-SEC"
         },
         {
-            "image": "pongSS.png",
+            "image": PongSSImage,
             "title": "Pong",
             "description":"Simple pong game I made with python, not sure how to make it playable in browser just yet",
             "url":"https://www.instagram.com/thecandylane/"
